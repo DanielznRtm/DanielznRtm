@@ -32,4 +32,4 @@ My goal is to help build products that solve real problems in **energy, the envi
 
 ## 📫 Contact
 
-[LinkedIn] www.linkedin.com/in/daniel-rt-macedo · [E-mail] danielrtmacedo06@gmail.com
+[LinkedIn] www.linkedin.com/in/daniel-rt-macedo  [E-mail] danielrtmacedo06@gmail.com
